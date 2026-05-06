@@ -132,7 +132,7 @@ fi
 # mpv
 if [ ! -d mpv ]; then
   echo "Downloading mpv..."
-  git -c advice.detachedHead=false clone -q --depth 1 -b $V_MPV https://github.com/dex2oat/mpv > /dev/null
+  git -c advice.detachedHead=false clone -q --depth 1 -b $V_MPV https://github.com/NextPlayerCloud/oh-mpv > /dev/null
 else
   echo "mpv already exists, skipping."
 fi
