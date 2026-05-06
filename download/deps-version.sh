@@ -28,4 +28,4 @@ V_FFMPEG=n8.0
 V_LIBASS=0.17.4
 V_LIBPLACEBO=v7.351.0
 V_LUA=5.2.4
-V_MPV=feat-ohos-support
+V_MPV=master
